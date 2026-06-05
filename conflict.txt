@@ -1,5 +1,4 @@
-HEAD
-This is the LEFT modification.
+This line was modified by Repo A
 
 This is the RIGHT modification.
 feature-right

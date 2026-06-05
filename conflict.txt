@@ -1,1 +1,5 @@
+HEAD
 This is the LEFT modification.
+
+This is the RIGHT modification.
+feature-right
